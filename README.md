@@ -12,7 +12,7 @@ This repository is a collaborative project for our Data Analysis course, in whic
 This project is done in both Python and R.
 
 Link to our report:
-[Overleaf](https://www.overleaf.com/5435171335nmvyzcyqdftg)
+[Overleaf](https://www.overleaf.com/5435171335nmvyzcyqdftg).
 
 ### If you want to execute the code on your own machine *with Python*
 
@@ -21,7 +21,7 @@ Install [Anaconda](https://www.anaconda.com/distribution/) and [git](https://git
 Next, clone this project by typing the following commands in a terminal:
 
     $ git clone https://github.com/jayalabanda/projet-ADD.git
-    $ git cd projet-ADD
+    $ cd projet-ADD
 
 Then, run these commands:
 
