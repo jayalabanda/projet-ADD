@@ -8,3 +8,8 @@ Le lien du projet Overleaf est le suivant :
 [Overleaf](https://www.overleaf.com/5435171335nmvyzcyqdftg)
 
 Nous mettrons régulièrement ce fichier à jour, car nous rendrons à la fin le fichier PDF qui sera généré à partir de ce projet.
+
+To-do list :
+- [ ] Ajouter les commentaires sur les graphes d'ACP
+- [ ] Trascrire en R
+- [ ] Commencer à rédiger le rapport final sur, Overleaf il reste deux mois !
