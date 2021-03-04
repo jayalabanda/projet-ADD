@@ -1,15 +1,47 @@
 # projet-ADD
 
-Analyse exploratoire du jeu de données Vélib
+Exploratory data analysis on the Velib bike stations dataset.
 
-Ce repository sert comme projet de collaboration pour le projet d'analyse de données où nous devons analyser les données sur les Vélibs à Paris.
+## Quick Start
 
-Le lien du projet Overleaf est le suivant :
+This repository is a collaborative project for our Data Analysis course, in which we have to detect clusters in the data and later predict the loading of a given Velib station in Paris.
+
+<img src=https://vl-media.fr/wp-content/uploads/2018/02/nouveau-Velib-Metropole-25-octobre-2017-Paris_0_729_486.jpg
+    title="velib" height=150/>
+
+This project is done in both Python and R.
+
+Link to our report:
 [Overleaf](https://www.overleaf.com/5435171335nmvyzcyqdftg)
 
-Nous mettrons régulièrement ce fichier à jour, car nous rendrons à la fin le fichier PDF qui sera généré à partir de ce projet.
+### If you want to execute the code on your own machine *with Python*
 
-To-do list :
-- [ ] Ajouter les commentaires sur les graphes d'ACP
-- [ ] Trascrire en R
-- [ ] Commencer à rédiger le rapport final sur, Overleaf il reste deux mois !
+Install [Anaconda](https://www.anaconda.com/distribution/) and [git](https://git-scm.com/downloads).
+
+Next, clone this project by typing the following commands in a terminal:
+
+    $ git clone https://github.com/jayalabanda/projet-ADD.git
+    $ git cd projet-ADD
+
+Then, run these commands:
+
+    $ conda env create -n project -f requirements.txt
+    $ conda activate project
+
+Finally, start Jupyter Lab (some code cells don't render in Jupyter Notebook):
+
+    $ jupyter lab
+
+### If you want to execute the code on your own machine *with R*
+
+Install the R kernel for Jupyter. Instructions are here: [IRkernel](https://github.com/IRkernel/IRkernel) and here: [Rich Pauloo](https://richpauloo.github.io/2018-05-16-Installing-the-R-kernel-in-Jupyter-Lab/).
+
+Then launch Jupyter Lab.
+
+Detailed instructions for installing and using the R kernel are [here](https://github.com/jayalabanda/projet-ADD/blob/master/INSTALL.md).
+
+Our to-do list :
+
+- [ ] Commentate PCA graphs
+- [ ] Transcribe from Python to R
+- [ ] Write our final report on Overleaf, only two months left!
