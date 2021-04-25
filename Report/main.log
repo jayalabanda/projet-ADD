@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2021.4.23)  23 APR 2021 18:13
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2021.4.23)  25 APR 2021 22:32
 entering extended mode
 **./main.tex
 (main.tex
@@ -1594,12 +1594,15 @@ mp)
 <images/Clustering/K-means/silhouette_coefficient.png>
 File: images/Clustering/K-means/inertia_classes.png Graphic file (type bmp)
 <images/Clustering/K-means/inertia_classes.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: images/Clustering/K-means/clusters_raw.png Graphic file (type bmp)
 <images/Clustering/K-means/clusters_raw.png>
 File: images/Clustering/K-means/loading_of_clusters.png Graphic file (type bmp)
 
 <images/Clustering/K-means/loading_of_clusters.png>
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1642,10 +1645,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  52646 strings out of 411722
  1160309 string characters out of 2836931
- 2126635 words of memory out of 3000000
+ 2128635 words of memory out of 3000000
  71971 multiletter control sequences out of 15000+600000
  433896 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,12n,92p,739b,874s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 92i,12n,92p,739b,878s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on main.pdf (17 pages).
