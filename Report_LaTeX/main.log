@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2021.4.23)  25 APR 2021 22:32
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2021.4.23)  29 APR 2021 19:32
 entering extended mode
 **./main.tex
 (main.tex
@@ -1543,7 +1543,7 @@ File: images/basic_analysis/boxplot_of_hill_stations.png Graphic file (type bmp
 File: images/basic_analysis/boxplot_of_not_hill_stations.png Graphic file (type
  bmp)
 <images/basic_analysis/boxplot_of_not_hill_stations.png>
- [5]) [6]
+) [5] [6]
 \openout2 = `sections/pca.aux'.
 
 
@@ -1588,25 +1588,18 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-]
+] [11]
 File: images/Clustering/K-means/silhouette_coefficient.png Graphic file (type b
 mp)
 <images/Clustering/K-means/silhouette_coefficient.png>
 File: images/Clustering/K-means/inertia_classes.png Graphic file (type bmp)
 <images/Clustering/K-means/inertia_classes.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 File: images/Clustering/K-means/clusters_raw.png Graphic file (type bmp)
 <images/Clustering/K-means/clusters_raw.png>
 File: images/Clustering/K-means/loading_of_clusters.png Graphic file (type bmp)
 
 <images/Clustering/K-means/loading_of_clusters.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[11]) [12]
+) [12]
 \openout2 = `sections/clustering_pca.aux'.
 
  (sections/clustering_pca.tex
@@ -1645,7 +1638,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  52646 strings out of 411722
  1160309 string characters out of 2836931
- 2128635 words of memory out of 3000000
+ 2127635 words of memory out of 3000000
  71971 multiletter control sequences out of 15000+600000
  433896 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
