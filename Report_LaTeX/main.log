@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2021.4.23)  29 APR 2021 19:32
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2021.4.23)  4 MAY 2021 11:04
 entering extended mode
 **./main.tex
 (main.tex
@@ -1502,13 +1502,13 @@ File: images/cover/INSA.png Graphic file (type bmp)
 
 ]
 (sections/descriptive_statistics.tex
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 4
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 3
 .
 
 (C:\Users\Joan\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 9
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 8
 .
 
 (C:\Users\Joan\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
@@ -1543,17 +1543,17 @@ File: images/basic_analysis/boxplot_of_hill_stations.png Graphic file (type bmp
 File: images/basic_analysis/boxplot_of_not_hill_stations.png Graphic file (type
  bmp)
 <images/basic_analysis/boxplot_of_not_hill_stations.png>
-) [5] [6]
+) [5]
 \openout2 = `sections/pca.aux'.
 
-
-(sections/pca.tex
+ (sections/pca.tex
 File: images/PCA/explained_var_ratio_and_cumulative.png Graphic file (type bmp)
 
 <images/PCA/explained_var_ratio_and_cumulative.png>
 File: images/PCA/boxplot_of_pca.png Graphic file (type bmp)
 <images/PCA/boxplot_of_pca.png>
- [7
+
+[6
 
 
 
@@ -1562,15 +1562,10 @@ File: images/PCA/variables_correlation_1_2.png Graphic file (type bmp)
 <images/PCA/variables_correlation_1_2.png>
 File: images/PCA/variables_correlation_1_3.png Graphic file (type bmp)
 <images/PCA/variables_correlation_1_3.png>
-
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 36--44
-[]$[]$ $[]$ 
- []
-
-[8]
+ [7]
 File: images/PCA/bike_stations_on_2_axis.png Graphic file (type bmp)
 <images/PCA/bike_stations_on_2_axis.png>
-) [9]
+) [8]
 \openout2 = `sections/clustering_raw.aux'.
 
  (sections/clustering_raw.tex
@@ -1580,15 +1575,19 @@ File: images/Clustering/AHC/AHC_heights_raw.png Graphic file (type bmp)
 <images/Clustering/AHC/AHC_heights_raw.png>
 File: images/Clustering/AHC/clusters_CAH_raw.png Graphic file (type bmp)
 <images/Clustering/AHC/clusters_CAH_raw.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[10
+ [9
 
 
 
-] [11]
+]
+File: images/Clustering/AHC/CAH_loadings_raw.png Graphic file (type bmp)
+<images/Clustering/AHC/CAH_loadings_raw.png>
+
+Overfull \hbox (4.47528pt too wide) in paragraph at lines 34--51
+[]$[]$  $[]$ 
+ []
+
+[10]
 File: images/Clustering/K-means/silhouette_coefficient.png Graphic file (type b
 mp)
 <images/Clustering/K-means/silhouette_coefficient.png>
@@ -1599,7 +1598,7 @@ File: images/Clustering/K-means/clusters_raw.png Graphic file (type bmp)
 File: images/Clustering/K-means/loading_of_clusters.png Graphic file (type bmp)
 
 <images/Clustering/K-means/loading_of_clusters.png>
-) [12]
+ [11]) [12]
 \openout2 = `sections/clustering_pca.aux'.
 
  (sections/clustering_pca.tex
@@ -1629,19 +1628,22 @@ Overfull \hbox (2.2222pt too wide) in paragraph at lines 43--51
 AED: lastpage setting LastPage
 (main.aux (sections/title_page.aux) (sections/multidimensional_analysis.aux)
 (sections/pca.aux) (sections/clustering_raw.aux) (sections/clustering_pca.aux))
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1F453AFC24952A8B57F5497B103AB096;4564.
+(rerunfilecheck)             Checksum: AF9BA432B730DD7B5334B557ECDD8959;5060.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52646 strings out of 411722
- 1160309 string characters out of 2836931
- 2127635 words of memory out of 3000000
- 71971 multiletter control sequences out of 15000+600000
+ 52653 strings out of 411722
+ 1160561 string characters out of 2836931
+ 2129245 words of memory out of 3000000
+ 71977 multiletter control sequences out of 15000+600000
  433896 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,12n,92p,739b,878s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 92i,11n,92p,739b,872s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on main.pdf (17 pages).
