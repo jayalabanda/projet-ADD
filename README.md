@@ -42,6 +42,4 @@ Detailed instructions for installing and using the R kernel are [here](https://g
 
 Our to-do list :
 
-- [ ] Commentate PCA graphs
-- [ ] Transcribe from Python to R
-- [ ] Write our final report on Overleaf, only two months left!
+- [X] Write our final report on Overleaf, only two months left!
