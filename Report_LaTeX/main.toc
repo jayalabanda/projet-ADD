@@ -38,7 +38,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.1}Ascending Hierarchical Classification}{13}{subsection.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2}K-Means}{14}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.2}K-Means}{13}{subsection.5.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3}Gaussian mixture model}{14}{subsection.5.3}%
 \defcounter {refsection}{0}\relax 

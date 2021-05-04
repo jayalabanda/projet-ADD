@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2021.4.23)  4 MAY 2021 14:20
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2021.4.23)  4 MAY 2021 20:22
 entering extended mode
 **./main.tex
 (main.tex
@@ -1525,7 +1525,7 @@ File: images/basic_analysis/2hours_apart.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [2] [3]
+[2]) [3]
 \openout2 = `sections/multidimensional_analysis.aux'.
 
  (sections/multidimensional_analysis.tex
@@ -1537,12 +1537,12 @@ File: images/basic_analysis/hill_nohill.png Graphic file (type bmp)
  [4
 
 ]
-File: images/basic_analysis/boxplot_of_hill_stations.png Graphic file (type bmp
-)
-<images/basic_analysis/boxplot_of_hill_stations.png>
 File: images/basic_analysis/boxplot_of_not_hill_stations.png Graphic file (type
  bmp)
 <images/basic_analysis/boxplot_of_not_hill_stations.png>
+File: images/basic_analysis/boxplot_of_hill_stations.png Graphic file (type bmp
+)
+<images/basic_analysis/boxplot_of_hill_stations.png>
 ) [5]
 \openout2 = `sections/pca.aux'.
 
@@ -1573,8 +1573,6 @@ File: images/Clustering/AHC/AHC_dendrogram_raw.png Graphic file (type bmp)
 <images/Clustering/AHC/AHC_dendrogram_raw.png>
 File: images/Clustering/AHC/AHC_heights_raw.png Graphic file (type bmp)
 <images/Clustering/AHC/AHC_heights_raw.png>
-File: images/Clustering/AHC/clusters_CAH_raw.png Graphic file (type bmp)
-<images/Clustering/AHC/clusters_CAH_raw.png>
  [9
 
 
@@ -1583,10 +1581,12 @@ File: images/Clustering/AHC/clusters_CAH_raw.png Graphic file (type bmp)
 File: images/Clustering/AHC/CAH_loadings_raw.png Graphic file (type bmp)
 <images/Clustering/AHC/CAH_loadings_raw.png>
 
-Overfull \hbox (4.47528pt too wide) in paragraph at lines 34--51
+Overfull \hbox (4.47528pt too wide) in paragraph at lines 30--47
 []$[]$  $[]$ 
  []
 
+File: images/Clustering/AHC/clusters_CAH_raw.png Graphic file (type bmp)
+<images/Clustering/AHC/clusters_CAH_raw.png>
 [10]
 File: images/Clustering/K-means/silhouette_coefficient.png Graphic file (type b
 mp)
@@ -1595,24 +1595,28 @@ File: images/Clustering/K-means/inertia_classes.png Graphic file (type bmp)
 <images/Clustering/K-means/inertia_classes.png>
 File: images/Clustering/K-means/clusters_raw.png Graphic file (type bmp)
 <images/Clustering/K-means/clusters_raw.png>
+ [11]
 File: images/Clustering/K-means/loading_of_clusters.png Graphic file (type bmp)
 
 <images/Clustering/K-means/loading_of_clusters.png>
- [11]) [12]
+) [12]
 \openout2 = `sections/clustering_pca.aux'.
 
  (sections/clustering_pca.tex
-File: images/Clustering/AHC/CAH_PCA.png Graphic file (type bmp)
-<images/Clustering/AHC/CAH_PCA.png>
+File: images/Clustering/AHC/AHC_heights_PCA.png Graphic file (type bmp)
+<images/Clustering/AHC/AHC_heights_PCA.png>
 File: images/Clustering/AHC/AHC_table.png Graphic file (type bmp)
 <images/Clustering/AHC/AHC_table.png>
+File: images/Clustering/K-means/k_means_table.png Graphic file (type bmp)
+<images/Clustering/K-means/k_means_table.png>
  [13
 
 
 
 ]
-File: images/Clustering/K-means/k_means_table.png Graphic file (type bmp)
-<images/Clustering/K-means/k_means_table.png>
+File: images/Clustering/K-means/silhouette_coefficient_pca.png Graphic file (ty
+pe bmp)
+<images/Clustering/K-means/silhouette_coefficient_pca.png>
 File: images/Clustering/Gaussian mixture/Gaussian_mix_1.png Graphic file (type 
 bmp)
 <images/Clustering/Gaussian mixture/Gaussian_mix_1.png>
@@ -1620,7 +1624,7 @@ File: images/Clustering/Gaussian mixture/Gaussian_mix_2.png Graphic file (type
 bmp)
 <images/Clustering/Gaussian mixture/Gaussian_mix_2.png>
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 43--51
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 55--63
 []$[]$ $[]$ 
  []
 
@@ -1635,10 +1639,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52653 strings out of 411722
- 1160561 string characters out of 2836931
- 2129244 words of memory out of 3000000
- 71977 multiletter control sequences out of 15000+600000
+ 52662 strings out of 411722
+ 1161001 string characters out of 2836931
+ 2128541 words of memory out of 3000000
+ 71985 multiletter control sequences out of 15000+600000
  433896 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,11n,92p,739b,872s stack positions out of 5000i,500n,10000p,200000b,80000s
